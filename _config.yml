@@ -1,1 +1,20 @@
-theme: jekyll-theme-minimal
+
+title: Campaign - A Game about Privacy + Politics
+email: campaigndevs@gmail.com
+description: Home for Campaign. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+paginate: 5
+paginate_path: "/blog/page:num/"
