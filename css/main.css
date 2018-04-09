@@ -18,7 +18,7 @@ h1 > a:focus {
   margin: 0;
   padding: 30; 
   color: #111; 
-  background-color: #ffff66;
+  background-color: #e4ff2c;
   text-decoration: none;
   font-weight: 800;
   border-radius: 2px;
@@ -109,7 +109,7 @@ a {
     padding: 3px;}
   a:hover {
     color: #111; 
-    background-color: #ffff66;
+    background-color: #e4ff2c;
     text-decoration: none;
     font-weight: 600;
     border-radius: 3px;
@@ -328,7 +328,7 @@ pre {
 .post-title {
   margin: 0;
   color: #111; 
-  background-color: #ffff66;
+  background-color: #e4ff2c;
   text-decoration: none;
   font-weight: 600;
   border-radius: 2px;
