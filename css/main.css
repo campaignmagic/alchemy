@@ -24,7 +24,7 @@ h1 > a:focus {
   border-radius: 2px;
   padding: 6px; 
   line-height: 
-  font-family: courier, sans-serif;
+  font-family: sans-serif;
   text-transform: lowercase;
 
 }
@@ -36,7 +36,7 @@ h2 {
 body {
 /*  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 */  
-  font: 400 12px/1.5 courier, sans-serif;
+  font: 400 12px/1.5 sans-serif;
   color: #111;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
@@ -333,7 +333,7 @@ pre {
   font-weight: 600;
   border-radius: 2px;
   padding: 2px; 
-  font-family: courier, cursive;
+  font-family: sans-serif;
   text-transform: lowercase;
 
   font-size: 14px;
