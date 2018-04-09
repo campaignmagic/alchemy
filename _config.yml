@@ -1,7 +1,7 @@
 
-title: Campaign - A Game about Privacy + Politics
-email: campaigndevs@gmail.com
-description: Home for Campaign. 
+title: Alchemy (working title)
+email: rsk2161@columbia.edi
+description: Home for Alchemy 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -9,7 +9,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minima
 gems:
   - jekyll-feed
   - jekyll-paginate

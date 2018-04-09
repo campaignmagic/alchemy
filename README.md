@@ -1,8 +1,8 @@
-# Campaign: A Video Game about Politics + Privacy
+# Alchemy: A Video Game about Privacy
 
-*Campaign* is a video game about American political campaigns. The project is funded by a Magic Grant from the Brown Institute of Media Innovated and supported in part by ProPublica. We hope to use this space to share what we are learning about political campaigns and game development and to provide a level of transparency for our reporting and design decisions. 
+*Alchemy* is a game about what happens when your secrets catch up to you. It follows the character of Franklin, who is an inquisitive dabbler in the science and magic of his day. He concocts potions and balms and elixirs. His creations are made to help his fellow man, but he’s edging closer to a bigger discovery that may make some powerful people unhappy: a recipe to turn lead to gold.  
 
-Stay tuned for more!
+Franklin’s world is watching. It quietly observes Franklin’s actions, collecting his decisions and habits and feeding them into an opaque algorithm that dispenses punishments and rewards based on seemingly arbitrary information. Who the game thinks Franklin is and who it thinks his friends are will become critical to his survival. 
 
 ### Team members:
 + Laurent Bastien
